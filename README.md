@@ -1,6 +1,6 @@
 # wordpress_client
 
-A new Flutter project.
+A Flutter WordPress API Client
 
 ## Getting Started
 
